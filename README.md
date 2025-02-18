@@ -4,7 +4,7 @@ Overtype mode of text-editor. It's a feature allows users to replace existing te
 
 ## Installation
 
-To install `overtype-mode` search for [overtype-mode](https://web.pulsar-edit.dev/packages/overtype-mode) in the Install pane of the Pulsar settings or run `ppm install overtype-mode`. Alternatively, you can run `ppm install bacadra/pulsar-overtype-mode` to install a package directly from the Github repository.
+To install `overtype-mode` search for [overtype-mode](https://web.pulsar-edit.dev/packages/overtype-mode) in the Install pane of the Pulsar settings or run `ppm install overtype-mode`. Alternatively, you can run `ppm install asiloisad/pulsar-overtype-mode` to install a package directly from the Github repository.
 
 # Contributing
 

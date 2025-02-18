@@ -1,7 +1,7 @@
 {
   "name": "overtype-mode",
   "description": "Overtype mode of text-editor",
-  "repository": "https://github.com/bacadra/pulsar-overtype-mode",
+  "repository": "https://github.com/asiloisad/pulsar-overtype-mode",
   "keywords": [
     "overtype",
     "mode"
