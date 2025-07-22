@@ -1,6 +1,6 @@
 # overtype-mode
 
-Overtype mode of text-editor. It's a feature allows users to replace existing text as they type, rather than inserting new characters. Press `Ins` to turn on/off. A mode is toggled per text-editor inc. mini ones.
+Overtype mode of text-editor. It's a feature allows users to replace existing text as they type, rather than inserting new characters. Press `Ins` to turn on/off. A mode is toggled globally or per editor.
 
 ## Installation
 

@@ -1,2 +1,4 @@
+'atom-workspace':
+  'insert': 'overtype-mode:toggle-global'
 'atom-text-editor':
-  'insert': 'overtype-mode:toggle'
+  'alt-insert': 'overtype-mode:toggle-editor'

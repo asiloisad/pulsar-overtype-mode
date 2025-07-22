@@ -19,3 +19,13 @@ atom-text-editor.overtype-cursor:not(.is-focused) .cursors .cursor
 {
   display: none;
 }
+
+@import "ui-variables";
+
+.status-bar .overtype-mode-icon .icon::before {
+  margin-right: 0px;
+}
+
+.status-bar .overtype-mode-icon .active {
+  color: @text-color-success;
+}
