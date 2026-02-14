@@ -1,6 +1,6 @@
 {
   "name": "overtype-mode",
-  "description": "Overtype mode of text-editor",
+  "description": "Replace existing text as you type instead of inserting",
   "repository": "https://github.com/asiloisad/pulsar-overtype-mode",
   "keywords": [
     "overtype",
