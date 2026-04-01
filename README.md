@@ -17,11 +17,11 @@ To install `overtype-mode` search for [overtype-mode](https://web.pulsar-edit.de
 
 Commands available in `atom-workspace`:
 
-- `overtype-mode:toggle-global`: (`Insert`) toggle overtype mode for all editors.
+- `overtype-mode:toggle-global`: <kbd>Insert</kbd> toggle overtype mode for all editors.
 
 Commands available in `atom-text-editor`:
 
-- `overtype-mode:toggle-editor`: (`Alt+Insert`) toggle overtype mode for current editor only.
+- `overtype-mode:toggle-editor`: <kbd>Alt+Insert</kbd> toggle overtype mode for current editor only.
 
 ## Customization
 
